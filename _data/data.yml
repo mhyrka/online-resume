@@ -19,7 +19,7 @@ profile:
   show: true
   order: 1
   title: Profile
-  description:
+  description: |
     Experienced software engineer with a proven track record of delivering high quality, high performing features and products in a timely fashion. Skilled in multiple areas of backend development including working with distributed cloud architecture, backend REST API development, postgresql & mysql, data pipelines, ETL jobs.
 
 experience:
@@ -34,9 +34,9 @@ experience:
       date: 2018.08 - present
       role: Senior Software Engineer
       location: Denver, CO
-      description:
-      Engineering - Avalara Shipping Verification
-      real-time shipping compliance api built with serverless framework, node, typescript and postgres. 100% test coverage, zero downtime, fully automated CI/CD
+      description: |
+        Engineering - Avalara Shipping Verification
+        real-time shipping compliance api built with serverless framework, node, typescript and postgres. 100% test coverage, zero downtime, fully automated CI/CD
 
         + Implemented one-click ci/cd solution for ransomware recovery that deploys full application to new aws account and restores data from cold storage
         + Designed and developed third party age-verification storage solution using dynamodb including disaster recovery and zero-downtime key rotation / rebuild strategy

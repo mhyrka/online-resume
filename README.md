@@ -7,8 +7,6 @@
   <a href="https://tarrex.github.io/online-resume"><img src="https://img.shields.io/website?down_color=red&down_message=down&style=flat-square&up_color=green&up_message=up&url=https%3A%2F%2Ftarrex.github.io%2Fonline-resume" alt="Demo Website"></a>
 </p>
 
-<h4 align="center">A minimalist Jekyll theme for your resume.</h4>
-
 ---
 
 ## Live Demo
@@ -73,7 +71,6 @@ You can read and follow [Cloudflare Pages][Cloudflare Pages], [Vercel][Vercel] d
 ## Others
 
 - Hugo Version: [hugo-theme-online-resume][Other Version]
-
 
 [Demo]: https://tarrex.github.io/online-resume
 [Cloudflare Pages]: https://developers.cloudflare.com/pages/framework-guides/deploy-a-jekyll-site/

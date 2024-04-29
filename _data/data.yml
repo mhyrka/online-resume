@@ -32,7 +32,7 @@ experience:
       role: Senior Software Engineer
       location: Denver, CO
       description: |
-        *Engineering* - Avalara Shipping Verification
+        **Engineering** - *Avalara Shipping Verification*
         real-time shipping compliance api built with serverless framework, node, typescript and postgres. 100% test coverage, zero downtime, fully automated CI/CD
 
         + Implemented one-click ci/cd solution for ransomware recovery that deploys full application to new aws account and restores data from cold storage
@@ -52,12 +52,12 @@ experience:
         + Delivered updates and new features as part of a 0 defect culture
         + Participated in stringent code review sessions with heavy emphasis on DRY priniciples, code quality, and extensibility
 
-        Leadership - Avalara Shipping Verification
+        **Leadership** - *Avalara Shipping Verification*
         + Created detailed documentation for onboarding 5 overseas devs. Docs included app setup docs, best practices, git processes, dev standards
         + Worked alongside more junior team members to assist in their growth and understanding of software and more importantly to empower them to solve problems independently
         + Ran all agile ceremonies including scrum, retros and ticket sizing
 
-        Engineering - Avalara for Beverage Alcohol
+        **Engineering** - *Avalara for Beverage Alcohol*
         + Designed and developed client credential management system using mysql and Laravel. Built front end pages with react for user management 
         + Designed and architected new react app to replace existing legacy frontend. Created app from scratch and integrated with internal shared web platform hosting solution. Built out routing and multiple pages. Reviewed all MRs and led team in this effort.
         + Set up monitoring infrastructure for new client app using Prometheus, Grafana and OpsGenie

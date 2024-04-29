@@ -61,7 +61,6 @@ experience:
         + Designed and developed client credential management system using mysql and Laravel. Built front end pages with react for user management 
         + Designed and architected new react app to replace existing legacy frontend. Created app from scratch and integrated with internal shared web platform hosting solution. Built out routing and multiple pages. Reviewed all MRs and led team in this effort.
         + Set up monitoring infrastructure for new client app using Prometheus, Grafana and OpsGenie
-        + Ran all agile ceremonies including scrum, retros and ticket sizing
 
 skill:
   show: true
@@ -72,6 +71,7 @@ skill:
       item:
         - node
         - typescript
+        - jest
         - php
         - laravel
         - react
@@ -112,7 +112,6 @@ education:
 
   items:
     - institution: University of Tennessee
-      link: '#'
       date: 2006 - 2010
       degree: BA
 

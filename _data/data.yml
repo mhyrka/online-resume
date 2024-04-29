@@ -32,7 +32,7 @@ experience:
       role: Senior Software Engineer
       location: Denver, CO
       description: |
-        Engineering - Avalara Shipping Verification
+        *Engineering* - Avalara Shipping Verification
         real-time shipping compliance api built with serverless framework, node, typescript and postgres. 100% test coverage, zero downtime, fully automated CI/CD
 
         + Implemented one-click ci/cd solution for ransomware recovery that deploys full application to new aws account and restores data from cold storage

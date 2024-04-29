@@ -18,7 +18,7 @@ profile:
   order: 1
   title: Profile
   description: |
-    Experienced software engineer with a proven track record of delivering high quality, high performing features and products in a timely fashion. Skilled in multiple areas of backend development including working with distributed cloud architecture, backend REST API development, postgresql & mysql, data pipelines, ETL jobs.
+    Experienced software engineer with a proven track record of delivering high quality, high performing features and products in a timely fashion. Skilled in multiple areas of backend development including working with distributed cloud architecture, backend REST API development, postgresql & mysql, data pipelines, and ETL jobs.
 
 experience:
   show: true

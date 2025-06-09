@@ -26,9 +26,21 @@ experience:
   title: Work Experience
 
   items:
+    - company: Cobank
+      link: https://www.cobank.com/
+      date: 2024.11 - present
+      role: Lead Engineer
+      location: Denver, CO
+      description: |
+        Lead engineer responsible for multiple high-impact projects crucial to company-wide digital transformation efforts
+        **Engineering**
+
+        + Delivered a compensation app to production in my first quarter. 
+          + Cut down incentive calculation time from weeks to minutes. 
+          + Results verified as 100% accurate via independent audit
     - company: Avalara
       link: https://www.avalara.com/us/en/products/beverage-alcohol.html
-      date: 2018.08 - present
+      date: 2018.08 - 2024.11
       role: Senior Software Engineer
       location: Denver, CO
       description: |
@@ -72,6 +84,7 @@ skill:
         - node
         - typescript
         - jest
+        - python
         - php
         - laravel
         - react
@@ -81,6 +94,7 @@ skill:
       item:
         - lambda
         - ec2
+        - eks
         - ecs
         - step functions
         - codebuild
@@ -97,9 +111,9 @@ skill:
         - serverless framework
     - name: DevOps
       item:
-        - gitlab CI/CD
+        - gitlab & github CI/CD
         - shell scripting automation
-        - docker
+        - docker / kubernetes / nginx
     - name: Database Administration
       item:
         - postgresql

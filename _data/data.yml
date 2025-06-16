@@ -32,7 +32,7 @@ experience:
       role: Lead Engineer
       location: Denver, CO
       description: |
-        Lead engineer responsible for multiple high-impact projects crucial to company-wide digital transformation efforts. GitHub CI/CD, IaC, 100% unit test coverage, Docker + EKS.
+        Lead engineer responsible for multiple high-impact projects crucial to company-wide digital transformation efforts. Additionally responsible for thorough PR reviews, interfacing with product and SLT for planning and mentoring junior engineers. GitHub CI/CD, IaC, 100% unit test coverage, Docker + EKS.
         + **Compensation App**
           + Stack: Python, RDS+pg, Serverless Architecture, State Machines, React
           + Delivered application to production
@@ -72,11 +72,6 @@ experience:
         + Created detailed documentation for onboarding 5 overseas devs. Docs included app setup docs, best practices, git processes, dev standards
         + Worked alongside more junior team members to assist in their growth and understanding of software and more importantly to empower them to solve problems independently
         + Ran all agile ceremonies including scrum, retros and ticket sizing
-
-        **Engineering** - *Avalara for Beverage Alcohol*
-        + Designed and developed client credential management system using mysql and Laravel. Built front end pages with react for user management 
-        + Designed and architected new react app to replace existing legacy frontend. Created app from scratch and integrated with internal shared web platform hosting solution. Built out routing and multiple pages. Reviewed all MRs and led team in this effort.
-        + Set up monitoring infrastructure for new client app using Prometheus, Grafana and OpsGenie
 
 skill:
   show: true

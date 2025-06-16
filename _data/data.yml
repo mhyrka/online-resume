@@ -32,12 +32,16 @@ experience:
       role: Lead Engineer
       location: Denver, CO
       description: |
-        Lead engineer responsible for multiple high-impact projects crucial to company-wide digital transformation efforts
-        **Engineering**
-
-        + Delivered a compensation app to production in my first quarter. 
-          + Cut down incentive calculation time from weeks to minutes. 
+        Lead engineer responsible for multiple high-impact projects crucial to company-wide digital transformation efforts. GitHub CI/CD, IaC, 100% unit test coverage, Docker + EKS.
+        + **Compensation App**
+          + Stack: Python, RDS+pg, Serverless Architecture, State Machines, React
+          + Delivered application to production
+          + Reduced incentive calculation time from weeks to minutes
           + Results verified as 100% accurate via independent audit
+        + **Digital Associate Experience (DAX)**
+          + Stack: Module Federation, React, Node+ts, RDS+pg, EKS, terraform
+          + Advocated for and devlivered automation for remote app integration and dev tools to enable efficient and secure local development
+          + Created multiple frontend modules and domain api integrations to enable customer search, edit, and assist as well as salesforce integration to aggregate associate work items
     - company: Avalara
       link: https://www.avalara.com/us/en/products/beverage-alcohol.html
       date: 2018.08 - 2024.11

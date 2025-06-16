@@ -59,19 +59,16 @@ experience:
         + Created data pipeline with sqs and lambdas to aggregate audit records and push to snowflake to enable effective data analysis and customer support
         + Created microservice to monitor content changes and automatically update within system
         + Created new cloud infrastructure as required using terraform and serverless framework
-        + Built components for a basic react frontend for batch registration feature which integrated with internal shared web-platform hosting tool
         + Engaged in regular pen-testing and integrated with various DAST and SAST tools to ensure security best practices to meet SOC2 compliance
         + Created and updated detailed threat models
         + Implemented cloudwatch and sumo logic dashboards and wrote custom integrations for various alerting scenarios
         + Created detailed design proposals and documentation for any significant work including performance profiling and optimization, feature enhancements and new features
         + Created detailed architecture diagrams
-        + Delivered updates and new features as part of a 0 defect culture
         + Participated in stringent code review sessions with heavy emphasis on DRY priniciples, code quality, and extensibility
 
         **Leadership** - *Avalara Shipping Verification*
         + Created detailed documentation for onboarding 5 overseas devs. Docs included app setup docs, best practices, git processes, dev standards
         + Worked alongside more junior team members to assist in their growth and understanding of software and more importantly to empower them to solve problems independently
-        + Ran all agile ceremonies including scrum, retros and ticket sizing
 
 skill:
   show: true

@@ -33,6 +33,12 @@ experience:
       location: Denver, CO
       description: |
         Lead engineer responsible for multiple high-impact projects crucial to company-wide digital transformation efforts. Additionally responsible for thorough PR reviews, interfacing with product and SLT for planning and mentoring junior engineers. GitHub CI/CD, IaC, 100% unit test coverage, Docker + EKS.
+        + **Associate API**
+          + Stack: Node+ts, RDS+pg, EKS, terraform, sns, sqs
+          + Created domain api for a single source of truth for HR
+          + Utilized event driven architecture to keep multiple data sources in sync
+          + Integrated with several HR data providers to perform CRUD operations on employees
+          + Created a shared Event Emitter library that utilizes decorators and resilience patterns to publish and consume notifications
         + **Compensation App**
           + Stack: Python, RDS+pg, Serverless Architecture, State Machines, React
           + Delivered application to production

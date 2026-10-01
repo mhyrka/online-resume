@@ -26,9 +26,27 @@ experience:
   title: Work Experience
 
   items:
+    - company: CompanyCam
+      link: https://companycam.com/
+      date: 2025.11 - present
+      role: Senior Software Engineer
+      location: Remote
+      description: |
+        Full stack senior engineer on the Financial Workflows team. Responsible for building and maintaining payment, billing, and AI-powered features across the platform.
+        + **Stripe Integration**
+          + Maintained and extended Stripe integrations to support billing, subscriptions, and payment workflows
+        + **Proposal Builder**
+          + Designed and built a full-featured proposal builder enabling users to create, customize, and send proposals directly within the platform
+        + **Invoice Builder**
+          + Created an invoice builder feature to streamline client billing and payment collection end-to-end
+        + **Price Book Integration**
+          + Built price book integration allowing teams to manage and apply standardized pricing across proposals and invoices
+        + **AI Proposal Creation (RubyLLM)**
+          + Architected and implemented front and backend integration with RubyLLM to enable AI-assisted proposal generation, accelerating the proposal creation workflow
+
     - company: Cobank
       link: https://www.cobank.com/
-      date: 2024.11 - present
+      date: 2024.11 - 2025.11
       role: Lead Engineer
       location: Denver, CO
       description: |

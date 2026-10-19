@@ -32,21 +32,16 @@ experience:
       role: Senior Software Engineer
       location: Remote
       description: |
-        Full stack senior engineer on the Financial Workflows team, building and maintaining payment, billing, and AI-powered features across the platform.
+        Full stack senior engineer on the Financial Workflows team, building and maintaining payment, billing, and AI-powered features across the platform. Stack: Ruby / Rails, React, TypeScript, PostgreSQL
         + **Stripe Integration**
-          + Stack: Ruby / Rails, Stripe API
           + Maintain and extend Stripe integrations supporting billing, subscriptions, and payment workflows
         + **Proposal Builder**
-          + Stack: Ruby / Rails, React
           + Design and build a full-featured proposal builder enabling users to create, customize, and send proposals directly within the platform
         + **Invoice Builder**
-          + Stack: Ruby / Rails, React
           + Build end-to-end invoice creation and delivery, streamlining client billing and payment collection
         + **Price Book Integration**
-          + Stack: Ruby / Rails
           + Build price book integration allowing teams to manage and apply standardized pricing across proposals and invoices
         + **AI Proposal Creation**
-          + Stack: Ruby / Rails, RubyLLM, React
           + Architect and implement front and backend RubyLLM integration enabling AI-assisted proposal generation
 
     - company: Cobank
@@ -67,7 +62,7 @@ experience:
           + Delivered application to production, reducing incentive calculation time from weeks to minutes
           + Results verified as 100% accurate via independent audit
         + **Digital Associate Experience (DAX)**
-          + Stack: Module Federation, React, Node + TypeScript, RDS + PostgreSQL, EKS, Terraform
+          + Stack: React, Node + TypeScript, RDS + PostgreSQL, EKS, Terraform
           + Delivered automation for remote app integration and dev tools to enable efficient and secure local development
           + Built frontend modules and domain API integrations for customer search, edit, and assist, plus Salesforce integration to aggregate associate work items
 

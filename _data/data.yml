@@ -105,6 +105,7 @@ skill:
         - typescript
         - jest
         - python
+        - ruby / rails
         - php
         - laravel
         - react

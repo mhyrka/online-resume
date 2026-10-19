@@ -32,17 +32,22 @@ experience:
       role: Senior Software Engineer
       location: Remote
       description: |
-        Full stack senior engineer on the Financial Workflows team. Responsible for building and maintaining payment, billing, and AI-powered features across the platform.
+        Full stack senior engineer on the Financial Workflows team, building and maintaining payment, billing, and AI-powered features across the platform.
         + **Stripe Integration**
-          + Maintained and extended Stripe integrations to support billing, subscriptions, and payment workflows
+          + Stack: Ruby / Rails, Stripe API
+          + Maintain and extend Stripe integrations supporting billing, subscriptions, and payment workflows
         + **Proposal Builder**
-          + Designed and built a full-featured proposal builder enabling users to create, customize, and send proposals directly within the platform
+          + Stack: Ruby / Rails, React
+          + Design and build a full-featured proposal builder enabling users to create, customize, and send proposals directly within the platform
         + **Invoice Builder**
-          + Created an invoice builder feature to streamline client billing and payment collection end-to-end
+          + Stack: Ruby / Rails, React
+          + Build end-to-end invoice creation and delivery, streamlining client billing and payment collection
         + **Price Book Integration**
-          + Built price book integration allowing teams to manage and apply standardized pricing across proposals and invoices
-        + **AI Proposal Creation (RubyLLM)**
-          + Architected and implemented front and backend integration with RubyLLM to enable AI-assisted proposal generation, accelerating the proposal creation workflow
+          + Stack: Ruby / Rails
+          + Build price book integration allowing teams to manage and apply standardized pricing across proposals and invoices
+        + **AI Proposal Creation**
+          + Stack: Ruby / Rails, RubyLLM, React
+          + Architect and implement front and backend RubyLLM integration enabling AI-assisted proposal generation
 
     - company: Cobank
       link: https://www.cobank.com/
@@ -50,49 +55,46 @@ experience:
       role: Lead Engineer
       location: Denver, CO
       description: |
-        Lead engineer responsible for multiple high-impact projects crucial to company-wide digital transformation efforts. Additionally responsible for thorough PR reviews, interfacing with product and SLT for planning and mentoring junior engineers. GitHub CI/CD, IaC, 100% unit test coverage, Docker + EKS.
+        Lead engineer responsible for multiple high-impact projects central to company-wide digital transformation. Responsibilities included thorough PR reviews, interfacing with product and senior leadership for planning, and mentoring junior engineers. GitHub CI/CD, IaC, 100% unit test coverage, Docker + EKS.
         + **Associate API**
-          + Stack: Node+ts, RDS+pg, EKS, terraform, sns, sqs
-          + Created domain api for a single source of truth for HR
-          + Utilized event driven architecture to keep multiple data sources in sync
+          + Stack: Node + TypeScript, RDS + PostgreSQL, EKS, Terraform, SNS, SQS
+          + Built domain API serving as a single source of truth for HR data
+          + Utilized event-driven architecture to keep multiple data sources in sync
           + Integrated with several HR data providers to perform CRUD operations on employees
-          + Created a shared Event Emitter library that utilizes decorators and resilience patterns to publish and consume notifications
+          + Created a shared Event Emitter library using decorators and resilience patterns to publish and consume notifications
         + **Compensation App**
-          + Stack: Python, RDS+pg, Serverless Architecture, State Machines, React
-          + Delivered application to production
-          + Reduced incentive calculation time from weeks to minutes
+          + Stack: Python, RDS + PostgreSQL, Serverless, Step Functions, React
+          + Delivered application to production, reducing incentive calculation time from weeks to minutes
           + Results verified as 100% accurate via independent audit
         + **Digital Associate Experience (DAX)**
-          + Stack: Module Federation, React, Node+ts, RDS+pg, EKS, terraform
-          + Advocated for and devlivered automation for remote app integration and dev tools to enable efficient and secure local development
-          + Created multiple frontend modules and domain api integrations to enable customer search, edit, and assist as well as salesforce integration to aggregate associate work items
+          + Stack: Module Federation, React, Node + TypeScript, RDS + PostgreSQL, EKS, Terraform
+          + Delivered automation for remote app integration and dev tools to enable efficient and secure local development
+          + Built frontend modules and domain API integrations for customer search, edit, and assist, plus Salesforce integration to aggregate associate work items
+
     - company: Avalara
       link: https://www.avalara.com/us/en/products/beverage-alcohol.html
       date: 2018.08 - 2024.11
       role: Senior Software Engineer
       location: Denver, CO
       description: |
-        **Engineering** - *Avalara Shipping Verification* - 
-        real-time shipping compliance api built with serverless framework, node, typescript and postgres. 100% test coverage, zero downtime, fully automated CI/CD
-
-        + Implemented one-click ci/cd solution for ransomware recovery that deploys full application to new aws account and restores data from cold storage
-        + Designed and developed third party age-verification storage solution using dynamodb including disaster recovery and zero-downtime key rotation / rebuild strategy
-        + Architected and developed batch registration system for self-service onboarding and to enable accurate volumetric compliance verification calculations
+        **Engineering** - *Avalara Shipping Verification*
+        Real-time shipping compliance API built with Serverless Framework, Node, TypeScript, and PostgreSQL. 100% test coverage, zero downtime, fully automated CI/CD.
+        + Implemented one-click CI/CD solution for ransomware recovery, deploying the full application to a new AWS account and restoring data from cold storage
+        + Designed and developed third-party age-verification storage solution using DynamoDB, including disaster recovery and zero-downtime key rotation / rebuild strategy
+        + Architected and developed batch registration system for self-service onboarding and accurate volumetric compliance verification calculations
         + Optimized RDS cluster to handle semi-regular traffic spikes while controlling costs
-        + Architected and built infrastructure to automate significant db migrations with minimal db downtime
-        + Created data pipeline with sqs and lambdas to aggregate audit records and push to snowflake to enable effective data analysis and customer support
+        + Architected and built infrastructure to automate significant DB migrations with minimal downtime
+        + Created data pipeline with SQS and Lambdas to aggregate audit records and push to Snowflake for data analysis and customer support
         + Created microservice to monitor content changes and automatically update within system
-        + Created new cloud infrastructure as required using terraform and serverless framework
-        + Engaged in regular pen-testing and integrated with various DAST and SAST tools to ensure security best practices to meet SOC2 compliance
-        + Created and updated detailed threat models
-        + Implemented cloudwatch and sumo logic dashboards and wrote custom integrations for various alerting scenarios
-        + Created detailed design proposals and documentation for any significant work including performance profiling and optimization, feature enhancements and new features
-        + Created detailed architecture diagrams
-        + Participated in stringent code review sessions with heavy emphasis on DRY priniciples, code quality, and extensibility
+        + Provisioned cloud infrastructure using Terraform and Serverless Framework
+        + Engaged in regular pen-testing and integrated DAST and SAST tools to ensure SOC2 compliance
+        + Implemented CloudWatch and Sumo Logic dashboards with custom alerting integrations
+        + Created detailed design proposals and architecture diagrams for all significant work
+        + Participated in stringent code reviews with emphasis on DRY principles, code quality, and extensibility
 
         **Leadership** - *Avalara Shipping Verification*
-        + Created detailed documentation for onboarding 5 overseas devs. Docs included app setup docs, best practices, git processes, dev standards
-        + Worked alongside more junior team members to assist in their growth and understanding of software and more importantly to empower them to solve problems independently
+        + Created detailed onboarding documentation for 5 overseas developers covering app setup, best practices, git processes, and dev standards
+        + Mentored junior team members, empowering them to solve problems independently and grow as engineers
 
 skill:
   show: true
